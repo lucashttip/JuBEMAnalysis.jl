@@ -1,0 +1,5 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+JuBEMAnalysis = "a604f4f9-b47e-480a-a01d-0c384d090e7d"
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+JuBEM = "e8c97ef1-ff71-4453-8306-41e13afb2289"
